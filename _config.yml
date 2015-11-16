@@ -1,0 +1,23 @@
+name: samlee
+favicon: null
+layout_spectrum: 0.2222784028854221
+typography_spectrum: 0.2510121474042535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.046139307552948594
+  lightness: 0.5362934290897101
+  saturation: 0.4286568502429873
+  rhythmicContrast: 0.9918832515832037
+purpose: []
